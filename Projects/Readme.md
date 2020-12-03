@@ -1,0 +1,1 @@
+My project in BI, NLP, Quantitative Finance
